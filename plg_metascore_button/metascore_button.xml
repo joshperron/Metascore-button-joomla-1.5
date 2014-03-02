@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="editors-xtd">
+	<name>Button - Metascore</name>
+	<author>MoveTwice</author>
+	<creationDate>November 2008</creationDate>
+	<copyright>Copyright (C) 2008 - 2012 DailyFidelity, LLC. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>admin@dailyfidelity.com</authorEmail>
+	<authorUrl>www.dailyfidelity.com.com</authorUrl>
+	<version>1.5</version>
+	<description>Inserts the plugin code for Metascore Plugin</description>
+	<files>
+		<filename plugin="metascore_button">metascore_button.php</filename>
+	</files>
+	<params />
+</install>
